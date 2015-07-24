@@ -1,5 +1,21 @@
 # Armadillo_Shield
 
+July 22(ish) update....
+
+Create a Debian package to:
+
+edit/update /etc/source.list
+apt-get update
+apt-get upgrade
+Make home directories
+Make remoteGroup - add all users to it
+apt-install ssh, webmunin, openvpn, dns, clam, squid, shorewall6
+set home page for ice weasel to be web-munin
+
+
+
+
+
 2015 Project Awesome
 
 First edit - silenttrace
