@@ -11,6 +11,7 @@ Make home directories
 Make remoteGroup - add all users to it
 apt-install ssh, webmunin, openvpn, dns, clam, squid, shorewall6
 set home page for ice weasel to be web-munin
+create a cron job which restarts ntop, sshd
 
 
 
